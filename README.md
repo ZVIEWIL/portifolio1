@@ -14,11 +14,11 @@
 
 ### **I - RESUMO DO PROJETO**
 
-O primeiro projeto integrador trouxe o tema 'web bot', com liberdade para buscar ferramentas tecnologicas para a efetiva entrega de um Mapeador de Criminalidade ao Redor da FATEC.
-
-Houve dificuldades de natureza humana, estrutural e tecnológica. No primero semestre, encontrando pela primeira vez os colegas e professores, com limitações estruturais e conhecendo novo vocabulário: nomes e neologismos, bem como de gerência de projetos, ambos de TI (metodologia Agile).
-
-Com o suporte de alunos mais experientes do último semestre, os membros da equipe foram revelando suas características e contribuindo livremente com ideias.
+Iniciamos essa caminhada dos APIs com o desafio de criar um WEB BOT que realizaria alguma tarefa definida pelo grupo, ou seja, tema aberto. 
+Visando uma contribuição com a comunidade de estudantes da Fatec, resolvemos desenvolver um web bot que disponibiliza os dados em uma página na Internet sobre o índice de violência na região da FATEC e Parque Tecnológico.
+Inicialmente, os usuários seriam os alunos da FATEC e a página seria aberta, sem precisar realizar cadastro ou login na página. 
+Ao entrar na página, o usuário tem acesso às informações de acordo com as opções de entrada, podendo inicialmente fazer o filtro do período (ex: de junho/2019 a agosto/2019 e o tipo de violência (ex: tentativa de ou, furto/roubo de carro, celulares, pertences pessoais etc.). 
+Essas informações são indicadas em um mapa de calor para melhor visualização.
 
 Por critério social e utilitarista e no contexto de fatos ocorridos ao redor da FATEC, elegemos um webbot que pudesse mostrar índices de criminalidade nas redondezas de seu prédio. Ao final, verificamos a possibilidade de comerciaização da solução tanto para o Poder Público como para o mercado imobiliário, securitário, de segurança, transporte e entretenimento em qualquer região do Estado de São Paulo.
 
