@@ -6,10 +6,10 @@
 
 [API 3° SEMESTRE - **CADASTRO POSITIVO**](https://github.com/ZVIEWIL/portifolio3)
 
-# API do 1° SEMESTRE:
+# API do 1° SEMESTRE - ***DANZO - Mapeador de Criminalidade ao Redor da FATEC***
 ![Danzo Logo](https://i.imgur.com/9V0mPnm.png)
 
-# ***PRIMEIRO PROJETO, SEMESTRE-01-2019.2 - *Danzo - Mapeador de Criminalidade ao Redor da FATEC***
+
 
 
 ### **I - RESUMO DO PROJETO**
