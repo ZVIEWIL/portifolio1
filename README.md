@@ -1,15 +1,13 @@
-# LISTA PORTFÓLIOS
 
-[PROJECT-SEMESTRE-01-2019.2 - **DANZO - Mapeador de Criminalidade ao Redor da FATEC**](https://github.com/ZVIEWIL/portifolio1) 
+## LISTA COM O LINK DOS PORTFÓLIOS DOS APIs:
+[API 1° SEMESTRE - **DANZO - Mapeador de Criminalidade ao Redor da FATEC**](https://github.com/ZVIEWIL/portifolio1) 
+[API 2° SEMESTRE - **GANTT CHART**](https://github.com/ZVIEWIL/portifolio2)
+[API 3° SEMESTRE - **CADASTRO POSITIVO**](https://github.com/ZVIEWIL/portifolio3)
 
-[PROJECT-SEMESTRE-02-2020.1 - **GANTT CHART**](https://github.com/ZVIEWIL/portifolio2)
-
-[PROJECT-SEMESTRE-03-2020.2 - **CADASTRO POSITIVO**](https://github.com/ZVIEWIL/portifolio3) 
-
-
+# API do 1° SEMESTRE:
 ![Danzo Logo](https://i.imgur.com/9V0mPnm.png)
 
-# **PRIMEIRO PROJETO, SEMESTRE-01-2019.2 - *Danzo - Mapeador de Criminalidade ao Redor da FATEC***
+# ***PRIMEIRO PROJETO, SEMESTRE-01-2019.2 - *Danzo - Mapeador de Criminalidade ao Redor da FATEC***
 
 
 ### **I - RESUMO DO PROJETO**
