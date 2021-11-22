@@ -27,10 +27,9 @@ Mapa de Calor gerado:
 ![Screenshot_4](https://user-images.githubusercontent.com/54503903/142784828-959113ea-7464-48f5-bbe3-4c786207929f.png)
 
 ### **TECNOLOGIAS UTILIZADAS**
-
-Em fase inicial do aprendizado, a equipe elegeu o Python por ser linguagem de programação de alto nível mais amigável ao programador.
-
-No contexto do Python, contamos com a orientação do Docente e muita pesquisa em fóruns virtuais especializados para implementar blocos de códigos com propósito específico.
+#### **PYTHON**
+Python é uma linguagem de programação de alto nível, desenvolvida por Guido van Rossum em 1991. Os objetivos desta linguagem são desenvolver códigos bom, ágil e objetiva. Além da linguagem de fácil interpretação o Python conta com uma biblioteca que fornece várias coleções de funções.
+Para o desenvolvimento do Projeto Integrador (Web Bot), foi escolhida a linguagem Python pelos integrantes do grupo por estarem familiarizados e por recomendação dos professores. Foi utilizada para desenvolver as raspagens do bot, integração com o front end e conexão com o banco de dados.
 
 As bibliotecas mais importantes foram:
 
