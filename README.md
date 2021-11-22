@@ -53,7 +53,10 @@ Com as divisões das tarefas feitas pela equipe, fiquei responsável por tratar 
 
 Acabei contribuindo com as seguintes tarefas realizadas:
 - Desenvolvimento do método que utilizamos para realizar a raspagem de dados no site da SSP/SP com o Selenium;
+![Screenshot_6](https://user-images.githubusercontent.com/54503903/142793872-cd76070f-5cc5-480b-963b-ce8089fd8147.png)
+
 - Desenvolvimento do método utilizado para criar os diretórios para armazenar o arquivo .csv extraido;
+![Screenshot_7](https://user-images.githubusercontent.com/54503903/142794097-674f558a-0b78-4859-9dab-460d1243cb01.png)
 - Desenvolvimento do método que utilizamos para inserir no banco de dados os dados extraidos do arquivo .csv;
 - Desenvolvimento do método que utilizamos para gerar o mapa de calor;
 
