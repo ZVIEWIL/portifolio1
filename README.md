@@ -48,7 +48,12 @@ Bibliotecas utilizadas:
 
 - Flask_googlecharts: É utilizado para gerar gráficos. foi utilizado para gerar gráficos para realizarmos comparações mensais sobre o indíce de criminalidade na região.
 
-
+### **CONTRIBUIÇÕES INDIVIDUAIS**
+Com as divisões das tarefas feitas pela equipe, fiquei responsavel por tratar os dados vindos do arquivo .CSV e inseri-lo no BD. Como um colega da equipe acabou desistindo do curso, acabei acumulando a tarefa de realizar a raspagem dos dados no site da SSP/SP. Pra mim foi bastante desafiador realizar as 2 tarefas, pois nunca tive contato algum com desenvolvimento de softwares.
+- Desenvolvimento do método que utilizamos para realizar a raspagem de dados no site da SSP/SP com o Selenium;
+- Desenvolvimento do método utilizado para criar os diretórios para armazenar o arquivo .csv extraido;
+- Desenvolvimento do método que utilizamos para inserir no banco de dados os dados extraidos do arquivo .csv;
+- Desenvolvimento do método que utilizamos para gerar o mapa de calor;
 
 
 
