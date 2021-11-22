@@ -50,6 +50,8 @@ Bibliotecas utilizadas:
 
 ### **CONTRIBUIÇÕES INDIVIDUAIS**
 Com as divisões das tarefas feitas pela equipe, fiquei responsável por tratar os dados vindos do arquivo .CSV e inseri-los no BD. Como um colega da equipe acabou desistindo do curso, acabei acumulando a tarefa de realizar a raspagem dos dados no site da SSP/SP. Pra mim foi bastante desafiador realizar as 2 tarefas, pois nunca havia tido contato algum com desenvolvimento de softwares.
+
+Acabei contribuindo com as seguintes tarefas realizadas:
 - Desenvolvimento do método que utilizamos para realizar a raspagem de dados no site da SSP/SP com o Selenium;
 - Desenvolvimento do método utilizado para criar os diretórios para armazenar o arquivo .csv extraido;
 - Desenvolvimento do método que utilizamos para inserir no banco de dados os dados extraidos do arquivo .csv;
