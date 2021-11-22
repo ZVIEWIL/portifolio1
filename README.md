@@ -21,8 +21,6 @@ Inicialmente, os usuários seriam os alunos da FATEC e a página seria aberta, s
 Ao entrar na página, o usuário tem acesso às informações de acordo com as opções de entrada, podendo inicialmente fazer o filtro do período (ex: de junho/2019 a agosto/2019 e o tipo de violência (ex: tentativa de ou, furto/roubo de carro, celulares, pertences pessoais etc.). 
 Essas informações são indicadas em um mapa de calor para melhor visualização.
 
-Por critério social e utilitarista e no contexto de fatos ocorridos ao redor da FATEC, elegemos um webbot que pudesse mostrar índices de criminalidade nas redondezas de seu prédio. Ao final, verificamos a possibilidade de comerciaização da solução tanto para o Poder Público como para o mercado imobiliário, securitário, de segurança, transporte e entretenimento em qualquer região do Estado de São Paulo.
-
 Tela Inicial:
 ![Screenshot_1](https://user-images.githubusercontent.com/54503903/142784348-aee4f7b9-0949-4a91-a9e6-b8e6ba22415c.png)
 
