@@ -16,11 +16,18 @@
 
 Iniciamos essa caminhada dos APIs com o desafio de criar um WEB BOT que realizaria alguma tarefa definida pelo grupo, ou seja, tema aberto. 
 Visando uma contribuição com a comunidade de estudantes da Fatec, resolvemos desenvolver um web bot que disponibiliza os dados em uma página na Internet sobre o índice de violência na região da FATEC e Parque Tecnológico.
+
 Inicialmente, os usuários seriam os alunos da FATEC e a página seria aberta, sem precisar realizar cadastro ou login na página. 
 Ao entrar na página, o usuário tem acesso às informações de acordo com as opções de entrada, podendo inicialmente fazer o filtro do período (ex: de junho/2019 a agosto/2019 e o tipo de violência (ex: tentativa de ou, furto/roubo de carro, celulares, pertences pessoais etc.). 
 Essas informações são indicadas em um mapa de calor para melhor visualização.
 
 Por critério social e utilitarista e no contexto de fatos ocorridos ao redor da FATEC, elegemos um webbot que pudesse mostrar índices de criminalidade nas redondezas de seu prédio. Ao final, verificamos a possibilidade de comerciaização da solução tanto para o Poder Público como para o mercado imobiliário, securitário, de segurança, transporte e entretenimento em qualquer região do Estado de São Paulo.
+
+Tela Inicial:
+![Screenshot_1](https://user-images.githubusercontent.com/54503903/142784348-aee4f7b9-0949-4a91-a9e6-b8e6ba22415c.png)
+
+Tela com os Filtros:
+![Screenshot_2](https://user-images.githubusercontent.com/54503903/142784358-5455857c-d84e-48db-bff0-6ef6ff40029a.png)
 
 Neste semestre, como estréia deste modelo de aprendizado (por projeto), havia ampla liberdade oriunda da amplitude do escopo. Ademais, o processo de criação e aprendizado tem velocidade diferente entre alunos.
 
