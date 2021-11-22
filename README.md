@@ -26,6 +26,9 @@ Tela com os Filtros:
 Mapa de Calor gerado:
 ![Screenshot_4](https://user-images.githubusercontent.com/54503903/142784828-959113ea-7464-48f5-bbe3-4c786207929f.png)
 
+Gráfico realizando comparação dos dados:
+![Screenshot_5](https://user-images.githubusercontent.com/54503903/142791377-bc73d39c-81c8-42a1-b372-bcbaaaa0a70b.png)
+
 ### **TECNOLOGIAS UTILIZADAS**
 #### **PYTHON**
 Python é uma linguagem de programação de alto nível, desenvolvida por Guido van Rossum em 1991. Os objetivos desta linguagem são desenvolver códigos bom, ágil e objetiva. Além da linguagem de fácil interpretação o Python conta com uma biblioteca que fornece várias coleções de funções.
