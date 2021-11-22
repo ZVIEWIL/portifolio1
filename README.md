@@ -31,17 +31,19 @@ Mapa de Calor gerado:
 Python é uma linguagem de programação de alto nível, desenvolvida por Guido van Rossum em 1991. Os objetivos desta linguagem são desenvolver códigos bom, ágil e objetiva. Além da linguagem de fácil interpretação o Python conta com uma biblioteca que fornece várias coleções de funções.
 Para o desenvolvimento do Projeto Integrador (Web Bot), foi escolhida a linguagem Python pelos integrantes do grupo por estarem familiarizados e por recomendação dos professores. Foi utilizada para desenvolver as raspagens do bot, integração com o front end e conexão com o banco de dados.
 
-As bibliotecas mais importantes foram:
+Bibliotecas utilizadas:
 
-- Selenium: Emulação de ações humanas para acessar o sitio da Secretaria de Segurança Pública do Estado de São Paulo, baixando os dados das métricas de crimes em arquivo em formato .CSV, após escolher município, bairro, tipo de crime e período. Escolhemos os crimes contra o patrimônio (furto ou roubo), de aparelhos celulares, automóveis, casas ou estabelecimentos comerciais.
+- Flask: É um micro framework que utiliza a linguagem Python para criar aplicativos Web. Escolhemos utiliza-lo por causa de suas principais caracteristicas que são: simplicidade, rapidez no desenvolvimento.
 
--  Pandas: Agrupamento de dados por localização, entregando os dados tratados para a apresentação em mapa de calor. Recebemos um curso extracurricular de "Python para Jornalistas", aprendendo as principais funcionalidades para demostrar dados com significância para o usuário final. aqui, nasceu para mim a curiosidade por Ciência de Dados.
+- Selenium: Utilizado para acessar e realizar comandos no site da SSP/SP, de forma que fosse possível baixar o arquivo .CSV utilizado para alimentar o nosso banco de dados.
 
--  Folium:  Biblioteca do Python que facilita a visualização dos dados em um mapa interativo, no projeto essa bibilioteca nos auxiliou a manipular os dados no mapa de calor que que mostrava as regiões que com mais índice de criminalidade ao redor da Fatec.
+- SQlite: O SQLite é uma base de dados relacional de código aberto e que dispensa o uso de um servidor na sua atuação. Utilizamos para armazenar os dados extraidos do arquivo .csv obtido no site da SSP/SP.
 
-- Flask: É um framework para Python utilizado para desenvolver aplicação web, escolhemos o Flask pois possui uma arquitetura mais simples, possui menos configurações e rapidez no desenvolvimento, com um deadline curto de aprendizado.
+- Pandas: O pandas é uma ferramenta de manipulação e análise de dados de código aberto rápida, poderosa, flexível e fácil de usar. Foi Utilizado para manipular os dados recebidos, agrupando eles por localização e tratando os dados para apresentação no mapa de calor.
 
-- Flask_googlecharts: É uma biblioteca para geração de gráficos, por ser uma das melhores bibiliotecas de gráficos, utilizamos em nosso projeto para gerar os gráficos mensais do índice de criminalidade.
+- Folium: Biblioteca do Python utilizada para facilitar a visualização de dados de vetores/geolocalização em mapas. Utilizamos para gerar o Mapa de Calor através dos dados fornecidos pelo Banco de Dados.
+
+- Flask_googlecharts: É utilizado para gerar gráficos. foi utilizado para gerar gráficos para realizarmos comparações mensais sobre o indíce de criminalidade na região.
 
 
 
