@@ -8,7 +8,7 @@
 
 # API do 1° SEMESTRE - ***DANZO - Mapeador de Criminalidade ao Redor da FATEC***
 
-### **I - RESUMO DO PROJETO**
+### **RESUMO DO PROJETO**
 
 Iniciamos essa caminhada dos APIs com o desafio de criar um WEB BOT que realizaria alguma tarefa definida pelo grupo, ou seja, tema aberto. 
 Visando uma contribuição com a comunidade de estudantes da Fatec, resolvemos desenvolver um web bot que disponibiliza os dados em uma página na Internet sobre o índice de violência na região da FATEC e Parque Tecnológico.
@@ -25,6 +25,30 @@ Tela com os Filtros:
 
 Mapa de Calor gerado:
 ![Screenshot_4](https://user-images.githubusercontent.com/54503903/142784828-959113ea-7464-48f5-bbe3-4c786207929f.png)
+
+### **TECNOLOGIAS UTILIZADAS**
+
+Em fase inicial do aprendizado, a equipe elegeu o Python por ser linguagem de programação de alto nível mais amigável ao programador.
+
+No contexto do Python, contamos com a orientação do Docente e muita pesquisa em fóruns virtuais especializados para implementar blocos de códigos com propósito específico.
+
+As bibliotecas mais importantes foram:
+
+- Selenium: Emulação de ações humanas para acessar o sitio da Secretaria de Segurança Pública do Estado de São Paulo, baixando os dados das métricas de crimes em arquivo em formato .CSV, após escolher município, bairro, tipo de crime e período. Escolhemos os crimes contra o patrimônio (furto ou roubo), de aparelhos celulares, automóveis, casas ou estabelecimentos comerciais.
+
+-  Pandas: Agrupamento de dados por localização, entregando os dados tratados para a apresentação em mapa de calor. Recebemos um curso extracurricular de "Python para Jornalistas", aprendendo as principais funcionalidades para demostrar dados com significância para o usuário final. aqui, nasceu para mim a curiosidade por Ciência de Dados.
+
+-  Folium:  Biblioteca do Python que facilita a visualização dos dados em um mapa interativo, no projeto essa bibilioteca nos auxiliou a manipular os dados no mapa de calor que que mostrava as regiões que com mais índice de criminalidade ao redor da Fatec.
+
+- Flask: É um framework para Python utilizado para desenvolver aplicação web, escolhemos o Flask pois possui uma arquitetura mais simples, possui menos configurações e rapidez no desenvolvimento, com um deadline curto de aprendizado.
+
+- Flask_googlecharts: É uma biblioteca para geração de gráficos, por ser uma das melhores bibiliotecas de gráficos, utilizamos em nosso projeto para gerar os gráficos mensais do índice de criminalidade.
+
+
+
+
+
+
 
 Neste semestre, como estréia deste modelo de aprendizado (por projeto), havia ampla liberdade oriunda da amplitude do escopo. Ademais, o processo de criação e aprendizado tem velocidade diferente entre alunos.
 
