@@ -64,7 +64,7 @@ Acabei contribuindo com as seguintes tarefas realizadas:
 - Desenvolvimento do método que utilizamos para gerar o mapa de calor;
 ![Screenshot_9](https://user-images.githubusercontent.com/54503903/142794324-56c6067c-17ef-4b1f-bbc9-b69eae8bd256.png)
 
-### **APRENDIZADOS EFETIVOS.**
+### **APRENDIZADOS EFETIVOS**
 - Metodologia SCRUM: Aprendi como funciona e utilizamos no projeto a metodogia. As entregas foram realizadas por Sprints, realizamos Daily Scrum e Kanban Scrum(To do, Doing e Done) para monitorarmos o andamento do projeto.
 
 - Slack: Conheci o Slack e utilizamos como meio de comunicação. Ferramenta bastante utilizada no nosso meio, foi importante descobri-la, utilizamos para documentar nossas conversas/reuniões sobre o projeto.
