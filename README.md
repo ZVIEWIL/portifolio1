@@ -23,6 +23,9 @@ Tela Inicial:
 Tela com os Filtros:
 ![Screenshot_2](https://user-images.githubusercontent.com/54503903/142784358-5455857c-d84e-48db-bff0-6ef6ff40029a.png)
 
+Mapa de Calor gerado:
+![Screenshot_4](https://user-images.githubusercontent.com/54503903/142784828-959113ea-7464-48f5-bbe3-4c786207929f.png)
+
 Neste semestre, como estréia deste modelo de aprendizado (por projeto), havia ampla liberdade oriunda da amplitude do escopo. Ademais, o processo de criação e aprendizado tem velocidade diferente entre alunos.
 
 Assim, implantamos uma metodologia que denominamos "competing codes". Dois colegas buscavam solução para o mesmo problema, vencendo o código que melhor atendesse as necessidades dos projetos.
